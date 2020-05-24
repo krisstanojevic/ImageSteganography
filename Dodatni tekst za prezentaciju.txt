@@ -1,0 +1,56 @@
+Voštane pločice - u staroj Grčkoj su se voštane pločice (komadi drveta preliveni voskom)
+obično koristile za pisanje. Ali, da bi jedan drugome prenijeli tajnu poruku, Grci bi odstranili
+vosak s pločice, napisali poruku direktno na drvo te ponovno nanijeli vosak na pločicu.
+Takva voštana pločica doimala se praznom i neupotrijebljenom pa nije privlačila pažnju
+prilikom inspekcije. Na taj način je navodno Demeratus obavijestio Spartu da Xerxes
+namjerava napasti Grčku.
+• Poruke na glasnikovom tijelu - osim voštanih pločica, stari Grci skrivali su poruke i na
+tijelima svojih glasnika. Tako su na primjer običavali tetovirati svoju tajnu poruku na
+obrijanu glasnikovu glavu. Kada bi njegova kosa ponovno narasla, poruka je bila uspješno
+sakrivena te se mogla pročitati samo ponovnim brijanjem glasnikove glave. Najpoznatija
+priča o opisanoj tehnici skrivene komunikacije odnosi se na upozorenje Grčkoj o perzijskim
+ofenzivnim planovima.
+• Nevidljiva tinta - prvi primjeri korištenja nevidljive tinte datiraju iz razdoblja 2. svjetskog
+rata, ali s jednakim uspjehom nevidljiva tinta koristila se i do dan danas. U naizgled
+bezazleno pismo umetala se tajna poruka – ispod vidljivog teksta, između redaka ili na
+nekim drugim praznim površinama papira. Tinta kojom je tajna poruka bila napisana
+spravljala se od mlijeka, octa, voćnih sokova ili urina. Sve navedene supstance imale su isti
+efekt – tamnjenje prilikom zagrijavanja. Uslijed razvoja tehnologije i sve češćih pojava 
+Revizija v1.0 CCERT-PUBDOC-2006-04-154 Stranica 6 / 15
+razotkrivanja poruka pisanih nevidljivom tintom, osmišljene su sofisticiranije tinte koje
+postaju vidljive tek nakon reagiranja na različite kemijske sastojke. Detekcija i čitanje takvih
+poruka komplicirano je jednako kao i razvijanje fotografija u specijaliziranim laboratorijima.
+• Mikrofotografije/mikrotekst - tijekom 2. svjetskog rata, špijuni su koristili mikrofotografije i
+mikrotekst za prosljeđivanje važnih informacija. Mikrofotografija/ mikrotekst obično je
+veličine i oblika točke (kao npr. točka u slovima 'i' i 'j') pa kao takvi nisu uočljivi niti čitljivi
+bez optičkih povećala. Ipak, takvi mikro oblici morali su biti ucrtani posebnom tintom koja
+se mogla primijetiti ako bi se papir prinio svjetlu ili zakrenuo pod specifičnim kutom.
+• Nulta šifra (eng. null cipher) - tajna poruka je zamaskirana unutar druge poruke koja se
+doima bezazleno i ne privlači pozornost. Jedan od najpoznatijih primjera primjene opisane
+metode vezan je uz japansku špijunku Velvalee Dickinson, poznatiju pod imenom Doll
+Woman (žena lutka). Velvalee se tijekom 2. svjetskog rata bavila prodajom i nabavom lutaka
+pa je često slala pisma iz New Yorka u neutralnu Južnu Ameriku koja su sadržavala
+narudžbe za lutke. Dotični tekst narudžbi je zapravo sadržavao sakrivene informacije o
+kretanjima brodova
+
+
+
+Steganografija se prvi put javila krajem 15.veka. The word Steganography technically means covered or hidden writing. Its existence can be found back to 440 BC.
+
+Voštane pločice u staroj Grčkoj , Poruke na kurirovom telu , Nevidljivo mastilo , Mikrofotografije i mikrotekst , Nulta šifra.
+
+Употреба стеганографије потиче од давнина (440 год. пре н. е.), Херодот је навео два примера стеганографије у свом делу „Херодотова историја“. У делу је наведено како је Демаратус послао упозорење о предстојећем нападу на Грчку записивањем поруке на дрвени калуп воштане плоче за писање, пре изливања воска. Воштане плоче су се доста користиле као папир јер је била омогућена поновна употреба површине за писање. Други древни пример употребе стеганографије је прича о Хистаеусу и његовом верном робу на чију главу је Хистиаеус исписао поруку и сачекао да му коса израсте. Касније је роб ту поруку непримећено пренео како би покренуо устанак против Персијанаца.
+
+Nacini steganografije: -Скривање порука у најмање значајним битима слике; -Скривање поруке у постојећем шифрату. Идеја је да прво шифрујемо поруку, а затим њен садржај распоредимо и заменимо са блоковима неког другог шифрата; -Пресликавање статистичких особина једне датотеке на другу датотеку, како би прва личила на другу датотеку; -Намерно, неприметно успоравање рачунарске мреже, у којој време може представљати симболику за пренос неке поруке; -Намерна промена редоследа пакета унутар рачунарске мреже; -Блог стеганографија користи издељене поруке, где делове поруке оставља као коментаре на разним блог страницама.
+
+
+
+1.Uvod
+Steganografija je naučna disciplina koja se bavi skrivenom razmenom informacija. Reč steganografija izvedena je od grčkih reči steganos i graphein, što u doslovnom prevodu znači "skriveno pisanje".
+Osnovni princip steganografije počiva na skrivanju samog postojanja informacije koja se prenosi unutar nekog naizgled bezazlenog medija ili skupa podataka. Moderna steganografija, koja koristi prednosti digitalne tehnologije, najčešće podrazumeva skrivanje tajne poruke unutar neke multimedijske datoteke, npr. slike, audio ili video datoteke. Multimedijske datoteke u pravilu sadrže neupotrebljene ili nevažne podatkovne prostore koje različite steganografske tehnike koriste tako da ih popune s tajnim informacijama. Takve datoteke se potom mogu razmenjivati bez da iko bude svestan prave svrhe dotične komunikacije.
+2.Istorija steganografije
+Premda je pojam steganografija formiran tek krajem 15. veka, različite steganografske tehnike koriste se već nekoliko hiljada godina. Sledi pregled najpoznatijih primena steganografije kroz istoriju:
+Voštane pločice - u staroj Grčkoj su se voštane pločice (komadi drveta preliveni voskom) obično koristile za pisanje. Ali, da bi jedan drugome preneli tajnu poruku, Grci bi odstranili vosak s pločica, napisali poruku direktno na drvo te ponovo naneli vosak na pločicu. Takva voštana pločica izgledala je prazna i neupotrebljena pa nije privlačila pažnju prilikom inspekcije. Na taj način je navodno Demeratus obavestio Spartu da Kserkses namerava da napadne Grčku.
+Poruke na kurirovom telu - osim voštanih pločica, stari Grci skrivali su poruke i na telima svojih kurira. Tako su na primer tetovirali svoju tajnu poruku na obrijanu kurirovu glavu. Kada bi njegova kosa ponovno porasla, poruka je bila uspešno sakrivena pa se mogla pročitati samo ponovnim brijanjem kurirove glave. Najpoznatija priča o opisanoj tehnici skrivene komunikacije odnosi se na upozorenje Grčkoj o persijskim ofenzivnim planovima.
+Nevidljivo mastilo - prvi primeri korišćenja nevidljivo mastila su iz 2. svetskog rata, ali s jednakim uspehom nevidljivo mastilo koristila se i do dan danas. U naizgled bezazleno pismo umetala se tajna poruka – ispod vidljivog teksta, između redova ili na nekim drugim praznim površinama papira. Mastilo kojim je tajna poruka bila napisana pravila se od mleka, sirćeta, voćnih sokova ili urina. Sve navedene supstance imale su isti efekt – tamnjenje prilikom zagrevanja. Usled razvoja tehnologije i sve češćih pojava razotkrivanja poruka pisanih nevidljivim mastilom, osmišljene su sofisticiranija mastila koja postaju vidljiva tek nakon reagovanja na različite hemijske sastojke. Detekcija i čitanje takvih poruka komplikovano je jednako kao i razvijanje fotografija u specijalizovanim laboratorijima.
+Mikrofotografije/mikrotekst - tokom 2. svetskog rata, špijuni su koristili mikrofotografije i mikrotekst za prosleđivanje važnih informacija. Mikrofotografija/ mikrotekst obično je veličine i oblika tačke (kao npr. tačka u slovima 'i' i 'j') pa kao takvi nisu uočljivi niti čitljivi bez optičkih povećala. Ipak, takvi mikrooblici morali su biti ucrtani posebnim mastilom koje se moglo primetiti ako bi se papir prineo svetlu ili zakrenuo pod specificnim uglom.
